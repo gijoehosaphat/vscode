@@ -14,5 +14,4 @@
     "window.restoreWindows": "all",
     "window.title": "${activeEditorLong}${separator}${rootName}",
     "workbench.colorTheme": "Cobalt2",
-    "workbench.startupEditor": "newUntitledFile",
 }
