@@ -1,17 +1,19 @@
 {
     "editor.fontFamily": "Source Code Pro, Menlo, Monaco, 'Courier New', monospace",
-    "editor.fontSize": 13,
-    "editor.renderWhitespace": "boundary",
-    "editor.scrollBeyondLastLine": false,
+    "editor.fontSize": 14,
     "editor.snippetSuggestions": "top",
+    "editor.tabCompletion": true,
     "editor.tabSize": 2,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
     "files.associations": {
         "*.js": "javascriptreact"
     },
     "git.confirmSync": false,
+    "java.errors.incompleteClasspath.severity": "ignore",
     "javascript.validate.enable": false,
     "window.newWindowDimensions": "inherit",
     "window.restoreWindows": "all",
-    "window.title": "${activeEditorLong}${separator}${rootName}",
+    "window.title": "${activeEditorMedium}${separator}${rootName}",
     "workbench.colorTheme": "Cobalt2",
 }
