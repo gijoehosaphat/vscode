@@ -6,6 +6,7 @@
     "editor.tabSize": 2,
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
+    "editor.scrollBeyondLastLine": false,
     "files.associations": {
         "*.js": "javascriptreact"
     },
@@ -16,4 +17,5 @@
     "window.restoreWindows": "all",
     "window.title": "${activeEditorMedium}${separator}${rootName}",
     "workbench.colorTheme": "Cobalt2",
+    "workbench.startupEditor": "newUntitledFile",
 }
