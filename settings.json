@@ -18,4 +18,6 @@
     "window.title": "${activeEditorMedium}${separator}${rootName}",
     "workbench.colorTheme": "Cobalt2",
     "workbench.startupEditor": "newUntitledFile",
+    "git.enableSmartCommit": true,
+    "window.zoomLevel": 0,
 }

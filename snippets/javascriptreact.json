@@ -1,20 +1,5 @@
 {
-/*
-	// Place your snippets for JavaScript React here. Each snippet is defined under a snippet name and has a prefix, body and 
-	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
-	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
-	// same ids are connected.
-	// Example:
-	"Print to console": {
-		"prefix": "log",
-		"body": [
-			"console.log('$1');",
-			"$2"
-		],
-		"description": "Log output to console"
-	}
-*/
-"React Native template": {
+	"React Native template": {
 		"prefix": "rnc",
 		"body": [
 			"import React from 'react'",
@@ -54,6 +39,44 @@
 			"export default $1"
 		],
 		"description": "Create React Native Component template."
+	},
+	"React Component template": {
+		"prefix": "rc",
+		"body": [
+			"import React from 'react'",
+			"import PropTypes from 'prop-types'",
+			"import shallowCompare from 'react-addons-shallow-compare'",
+			"",
+			"class $1 extends React.Component {",
+			"  constructor(props: Object) {",
+			"    super(props)",
+			"    this.state = {",
+			"      ",
+			"    }",
+			"  }",
+			"  shouldComponentUpdate(nextProps: Object, nextState: Object): bool {",
+			"    return shallowCompare(this, nextProps, nextState)",
+			"  }",
+			"  render() {",
+			"    return (",
+			"      <div>",
+			"        $1",
+			"      </div>",
+			"    )",
+			"  }",
+			"}",
+			"",
+			"$1.propTypes = {",
+			"  ",
+			"}",
+			"",
+			"$1.defaultProps = {",
+			"  ",
+			"}",
+			"",
+			"export default $1"
+		],
+		"description": "Create React Component template."
 	},
 	"React PropTypes": {
 		"prefix": "PT",
