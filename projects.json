@@ -1,0 +1,177 @@
+[
+	{
+		"name": "circleci-orbs",
+		"rootPath": "/Users/joe/Development/Workspace/circleci-orbs",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "retailer",
+		"rootPath": "/Users/joe/Development/Workspace/retailer",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "redux-stores",
+		"rootPath": "/Users/joe/Development/Workspace/redux-stores",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "pbxxr1",
+		"rootPath": "/Users/joe/Development/Workspace/pbxxr1",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "brand-admin",
+		"rootPath": "/Users/joe/Development/Workspace/brand-admin",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "brand",
+		"rootPath": "/Users/joe/Development/Workspace/brand",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "pbxx2cp",
+		"rootPath": "/Users/joe/Development/Workspace/pbxx2cp",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "pbxx2",
+		"rootPath": "/Users/joe/Development/Workspace/pbxx2",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "terraform-spa-module",
+		"rootPath": "/Users/joe/Development/Workspace/terraform-spa-module",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "pbxx-intranet",
+		"rootPath": "/Users/joe/Development/Workspace/pbxx-intranet",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "terraform-pbxx2cp",
+		"rootPath": "/Users/joe/Development/Workspace/terraform-pbxx2cp",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "fireboxx",
+		"rootPath": "/Users/joe/Development/Workspace/fireboxx",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "lp-widgets",
+		"rootPath": "/Users/joe/Development/Workspace/lp-widgets",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "pbxx-graphql",
+		"rootPath": "/Users/joe/Development/Workspace/pbxx-graphql",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "ui-mobile",
+		"rootPath": "/Users/joe/Development/Workspace/ui-mobile",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "ui-mobile-app-handler",
+		"rootPath": "/Users/joe/Development/Workspace/ui-mobile-app-handler",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "nflpe-www",
+		"rootPath": "/Users/joe/Development/Workspace/nflpe-www",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "dotfiles",
+		"rootPath": "/Users/joe/Development/dotfiles",
+		"paths": ["Personal"],
+		"group": "Personal",
+		"enabled": true
+	},
+	{
+		"name": "react-testing",
+		"rootPath": "/Users/joe/Development/Workspace/react-testing",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "pbxxcomponent",
+		"rootPath": "/Users/joe/Development/Workspace/pbxxcomponent",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "pbxxjsdata",
+		"rootPath": "/Users/joe/Development/Workspace/pbxxjsdata",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "mindmap",
+		"rootPath": "/Users/joe/Development/Workspace/mindmap",
+		"paths": ["Personal"],
+		"group": "Personal",
+		"enabled": true
+	},
+	{
+		"name": "cutplanner",
+		"rootPath": "/Users/joe/Development/Workspace/cutplanner",
+		"paths": ["Personal"],
+		"group": "Personal",
+		"enabled": true
+	},
+	{
+		"name": "lpwidgets",
+		"rootPath": "/Users/joe/Development/Workspace/lpwidgets",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "landing-pages",
+		"rootPath": "/Users/joe/Development/Workspace/landing-pages",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	}
+]

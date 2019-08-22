@@ -4,6 +4,12 @@
     "editor.snippetSuggestions": "top",
     "editor.tabCompletion": true,
     "editor.tabSize": 2,
+    // "editor.formatOnSave": true,
+    "prettier.requireConfig": true,
+    "eslint.autoFixOnSave": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
     "editor.scrollBeyondLastLine": false,
@@ -19,5 +25,20 @@
     "workbench.colorTheme": "Cobalt2",
     "workbench.startupEditor": "newUntitledFile",
     "git.enableSmartCommit": true,
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 1,
+    "git.autofetch": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "circleci.apiKey": "ba54b7be128f159d24a1e67fe71fde0d8c662be3",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "javascript.suggest.autoImports": false,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
 }
