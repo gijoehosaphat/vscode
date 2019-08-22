@@ -140,6 +140,13 @@
 		"enabled": true
 	},
 	{
+		"name": "pbxxfont",
+		"rootPath": "/Users/joe/Development/Workspace/pbxxfont",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
 		"name": "pbxxjsdata",
 		"rootPath": "/Users/joe/Development/Workspace/pbxxjsdata",
 		"paths": [],
@@ -158,13 +165,6 @@
 		"rootPath": "/Users/joe/Development/Workspace/cutplanner",
 		"paths": ["Personal"],
 		"group": "Personal",
-		"enabled": true
-	},
-	{
-		"name": "lpwidgets",
-		"rootPath": "/Users/joe/Development/Workspace/lpwidgets",
-		"paths": [],
-		"group": "",
 		"enabled": true
 	},
 	{
